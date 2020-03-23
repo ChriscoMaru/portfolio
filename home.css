@@ -1,0 +1,27 @@
+body{
+    background-image: url("./assets/portfolioBackgroundV2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.navbar-brand{
+    
+    font-size: 32px;
+}
+.navbar navbar-light{
+    background-color: aqua;
+}
+/* .container{
+    opacity: 25%;
+    margin-top: 460px;
+    margin-left: 957px;
+} */
+.container{
+    margin-top: 150px;
+    text-align: center;
+    color: rgb(18,98,126);
+}
+.facePic{
+    opacity: 25%;
+    margin-top: 375px;
+}
