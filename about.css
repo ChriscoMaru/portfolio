@@ -4,6 +4,9 @@ body{
     background-position: center;
     background-attachment: fixed;
 }
+.navbar{
+    opacity: 80%;
+}
 .navbar-brand{
     
     font-size: 32px;
