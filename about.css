@@ -1,0 +1,14 @@
+body{
+    background-image: url("./assets/aboutBackground.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.navbar-brand{
+    
+    font-size: 32px;
+}
+.navbar-brand{
+
+    font-family: 'Rock Salt', cursive;
+}
